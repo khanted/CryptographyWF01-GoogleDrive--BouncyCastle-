@@ -1,0 +1,166 @@
+C:\Users\Flouter\source\repos\csharp\CryptographyWF01\CryptographyWF01\bin\Debug\CryptographyWF01.exe.config
+C:\Users\Flouter\source\repos\csharp\CryptographyWF01\CryptographyWF01\bin\Debug\CryptographyWF01.exe
+C:\Users\Flouter\source\repos\csharp\CryptographyWF01\CryptographyWF01\bin\Debug\CryptographyWF01.pdb
+C:\Users\Flouter\source\repos\csharp\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.csproj.AssemblyReference.cache
+C:\Users\Flouter\source\repos\csharp\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.Form1.resources
+C:\Users\Flouter\source\repos\csharp\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.Properties.Resources.resources
+C:\Users\Flouter\source\repos\csharp\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.csproj.GenerateResource.cache
+C:\Users\Flouter\source\repos\csharp\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.csproj.CoreCompileInputs.cache
+C:\Users\Flouter\source\repos\csharp\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.exe
+C:\Users\Flouter\source\repos\csharp\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.pdb
+C:\ЭДИК\CryptographyWF01\CryptographyWF01\bin\Debug\CryptographyWF01.exe.config
+C:\ЭДИК\CryptographyWF01\CryptographyWF01\bin\Debug\CryptographyWF01.exe
+C:\ЭДИК\CryptographyWF01\CryptographyWF01\bin\Debug\CryptographyWF01.pdb
+C:\ЭДИК\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.csproj.AssemblyReference.cache
+C:\ЭДИК\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.Form1.resources
+C:\ЭДИК\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.Properties.Resources.resources
+C:\ЭДИК\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.csproj.GenerateResource.cache
+C:\ЭДИК\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.csproj.CoreCompileInputs.cache
+C:\ЭДИК\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.exe
+C:\ЭДИК\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.pdb
+C:\Users\Flouter\Documents\C#\==\CryptographyWF01\CryptographyWF01\CryptographyWF01\bin\Debug\CryptographyWF01.exe.config
+C:\Users\Flouter\Documents\C#\==\CryptographyWF01\CryptographyWF01\CryptographyWF01\bin\Debug\CryptographyWF01.exe
+C:\Users\Flouter\Documents\C#\==\CryptographyWF01\CryptographyWF01\CryptographyWF01\bin\Debug\CryptographyWF01.pdb
+C:\Users\Flouter\Documents\C#\==\CryptographyWF01\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Flouter\Documents\C#\==\CryptographyWF01\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.Core.dll
+C:\Users\Flouter\Documents\C#\==\CryptographyWF01\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.dll
+C:\Users\Flouter\Documents\C#\==\CryptographyWF01\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\Flouter\Documents\C#\==\CryptographyWF01\CryptographyWF01\CryptographyWF01\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Flouter\Documents\C#\==\CryptographyWF01\CryptographyWF01\CryptographyWF01\bin\Debug\System.CodeDom.dll
+C:\Users\Flouter\Documents\C#\==\CryptographyWF01\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.pdb
+C:\Users\Flouter\Documents\C#\==\CryptographyWF01\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.xml
+C:\Users\Flouter\Documents\C#\==\CryptographyWF01\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Flouter\Documents\C#\==\CryptographyWF01\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Flouter\Documents\C#\==\CryptographyWF01\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Flouter\Documents\C#\==\CryptographyWF01\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.Core.xml
+C:\Users\Flouter\Documents\C#\==\CryptographyWF01\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\Flouter\Documents\C#\==\CryptographyWF01\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\Flouter\Documents\C#\==\CryptographyWF01\CryptographyWF01\CryptographyWF01\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Flouter\Documents\C#\==\CryptographyWF01\CryptographyWF01\CryptographyWF01\bin\Debug\System.CodeDom.xml
+C:\Users\Flouter\Documents\C#\==\CryptographyWF01\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.csproj.AssemblyReference.cache
+C:\Users\Flouter\Documents\C#\==\CryptographyWF01\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.Form1.resources
+C:\Users\Flouter\Documents\C#\==\CryptographyWF01\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.Properties.Resources.resources
+C:\Users\Flouter\Documents\C#\==\CryptographyWF01\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.csproj.GenerateResource.cache
+C:\Users\Flouter\Documents\C#\==\CryptographyWF01\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.csproj.CoreCompileInputs.cache
+C:\Users\Flouter\Documents\C#\==\CryptographyWF01\CryptographyWF01\CryptographyWF01\obj\Debug\Cryptogr.76FBC6BF.Up2Date
+C:\Users\Flouter\Documents\C#\==\CryptographyWF01\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.exe
+C:\Users\Flouter\Documents\C#\==\CryptographyWF01\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.pdb
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive\CryptographyWF01\CryptographyWF01\bin\Debug\CryptographyWF01.exe.config
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive\CryptographyWF01\CryptographyWF01\bin\Debug\CryptographyWF01.exe
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive\CryptographyWF01\CryptographyWF01\bin\Debug\CryptographyWF01.pdb
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.Auth.dll
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.Core.dll
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.dll
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.Drive.v3.dll
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive\CryptographyWF01\CryptographyWF01\bin\Debug\Newtonsoft.Json.dll
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive\CryptographyWF01\CryptographyWF01\bin\Debug\System.CodeDom.dll
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.pdb
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.xml
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.Auth.pdb
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.Auth.xml
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.Core.pdb
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.Core.xml
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.Drive.v3.xml
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive\CryptographyWF01\CryptographyWF01\bin\Debug\Newtonsoft.Json.xml
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive\CryptographyWF01\CryptographyWF01\bin\Debug\System.CodeDom.xml
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.csproj.AssemblyReference.cache
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.Form1.resources
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.Properties.Resources.resources
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.csproj.GenerateResource.cache
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.csproj.CoreCompileInputs.cache
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive\CryptographyWF01\CryptographyWF01\obj\Debug\Cryptogr.76FBC6BF.Up2Date
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.exe
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.pdb
+C:\Users\Flouter\Documents\!!! Student Work\CryptographyWF01-GoogleDrive\CryptographyWF01\CryptographyWF01\bin\Debug\CryptographyWF01.exe.config
+C:\Users\Flouter\Documents\!!! Student Work\CryptographyWF01-GoogleDrive\CryptographyWF01\CryptographyWF01\bin\Debug\CryptographyWF01.exe
+C:\Users\Flouter\Documents\!!! Student Work\CryptographyWF01-GoogleDrive\CryptographyWF01\CryptographyWF01\bin\Debug\CryptographyWF01.pdb
+C:\Users\Flouter\Documents\!!! Student Work\CryptographyWF01-GoogleDrive\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Flouter\Documents\!!! Student Work\CryptographyWF01-GoogleDrive\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.Core.dll
+C:\Users\Flouter\Documents\!!! Student Work\CryptographyWF01-GoogleDrive\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.dll
+C:\Users\Flouter\Documents\!!! Student Work\CryptographyWF01-GoogleDrive\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\Flouter\Documents\!!! Student Work\CryptographyWF01-GoogleDrive\CryptographyWF01\CryptographyWF01\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Flouter\Documents\!!! Student Work\CryptographyWF01-GoogleDrive\CryptographyWF01\CryptographyWF01\bin\Debug\System.CodeDom.dll
+C:\Users\Flouter\Documents\!!! Student Work\CryptographyWF01-GoogleDrive\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.pdb
+C:\Users\Flouter\Documents\!!! Student Work\CryptographyWF01-GoogleDrive\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.xml
+C:\Users\Flouter\Documents\!!! Student Work\CryptographyWF01-GoogleDrive\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Flouter\Documents\!!! Student Work\CryptographyWF01-GoogleDrive\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Flouter\Documents\!!! Student Work\CryptographyWF01-GoogleDrive\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Flouter\Documents\!!! Student Work\CryptographyWF01-GoogleDrive\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.Core.xml
+C:\Users\Flouter\Documents\!!! Student Work\CryptographyWF01-GoogleDrive\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\Flouter\Documents\!!! Student Work\CryptographyWF01-GoogleDrive\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\Flouter\Documents\!!! Student Work\CryptographyWF01-GoogleDrive\CryptographyWF01\CryptographyWF01\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Flouter\Documents\!!! Student Work\CryptographyWF01-GoogleDrive\CryptographyWF01\CryptographyWF01\bin\Debug\System.CodeDom.xml
+C:\Users\Flouter\Documents\!!! Student Work\CryptographyWF01-GoogleDrive\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.csproj.AssemblyReference.cache
+C:\Users\Flouter\Documents\!!! Student Work\CryptographyWF01-GoogleDrive\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.Form1.resources
+C:\Users\Flouter\Documents\!!! Student Work\CryptographyWF01-GoogleDrive\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.Properties.Resources.resources
+C:\Users\Flouter\Documents\!!! Student Work\CryptographyWF01-GoogleDrive\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.csproj.GenerateResource.cache
+C:\Users\Flouter\Documents\!!! Student Work\CryptographyWF01-GoogleDrive\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.csproj.CoreCompileInputs.cache
+C:\Users\Flouter\Documents\!!! Student Work\CryptographyWF01-GoogleDrive\CryptographyWF01\CryptographyWF01\obj\Debug\Cryptogr.76FBC6BF.Up2Date
+C:\Users\Flouter\Documents\!!! Student Work\CryptographyWF01-GoogleDrive\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.exe
+C:\Users\Flouter\Documents\!!! Student Work\CryptographyWF01-GoogleDrive\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.pdb
+C:\ЭДИК\Литература\CryptographyWF01-GoogleDrive 2 (1)\CryptographyWF01-GoogleDrive 2\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.csproj.AssemblyReference.cache
+C:\ЭДИК\Литература\CryptographyWF01-GoogleDrive 2 (1)\CryptographyWF01-GoogleDrive 2\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.Form1.resources
+C:\ЭДИК\Литература\CryptographyWF01-GoogleDrive 2 (1)\CryptographyWF01-GoogleDrive 2\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.Properties.Resources.resources
+C:\ЭДИК\Литература\CryptographyWF01-GoogleDrive 2 (1)\CryptographyWF01-GoogleDrive 2\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.csproj.GenerateResource.cache
+C:\ЭДИК\Литература\CryptographyWF01-GoogleDrive 2 (1)\CryptographyWF01-GoogleDrive 2\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.csproj.CoreCompileInputs.cache
+C:\ЭДИК\Литература\CryptographyWF01-GoogleDrive 2 (1)\CryptographyWF01-GoogleDrive 2\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.exe
+C:\ЭДИК\Литература\CryptographyWF01-GoogleDrive 2 (1)\CryptographyWF01-GoogleDrive 2\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.pdb
+C:\Users\Flouter\Documents\C#\CryptographyWF01-GoogleDrive 2 (2)\CryptographyWF01-GoogleDrive 2 (1)\CryptographyWF01-GoogleDrive 2\CryptographyWF01\CryptographyWF01\bin\Debug\CryptographyWF01.exe.config
+C:\Users\Flouter\Documents\C#\CryptographyWF01-GoogleDrive 2 (2)\CryptographyWF01-GoogleDrive 2 (1)\CryptographyWF01-GoogleDrive 2\CryptographyWF01\CryptographyWF01\bin\Debug\CryptographyWF01.exe
+C:\Users\Flouter\Documents\C#\CryptographyWF01-GoogleDrive 2 (2)\CryptographyWF01-GoogleDrive 2 (1)\CryptographyWF01-GoogleDrive 2\CryptographyWF01\CryptographyWF01\bin\Debug\CryptographyWF01.pdb
+C:\Users\Flouter\Documents\C#\CryptographyWF01-GoogleDrive 2 (2)\CryptographyWF01-GoogleDrive 2 (1)\CryptographyWF01-GoogleDrive 2\CryptographyWF01\CryptographyWF01\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Flouter\Documents\C#\CryptographyWF01-GoogleDrive 2 (2)\CryptographyWF01-GoogleDrive 2 (1)\CryptographyWF01-GoogleDrive 2\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Flouter\Documents\C#\CryptographyWF01-GoogleDrive 2 (2)\CryptographyWF01-GoogleDrive 2 (1)\CryptographyWF01-GoogleDrive 2\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.Core.dll
+C:\Users\Flouter\Documents\C#\CryptographyWF01-GoogleDrive 2 (2)\CryptographyWF01-GoogleDrive 2 (1)\CryptographyWF01-GoogleDrive 2\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.dll
+C:\Users\Flouter\Documents\C#\CryptographyWF01-GoogleDrive 2 (2)\CryptographyWF01-GoogleDrive 2 (1)\CryptographyWF01-GoogleDrive 2\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\Flouter\Documents\C#\CryptographyWF01-GoogleDrive 2 (2)\CryptographyWF01-GoogleDrive 2 (1)\CryptographyWF01-GoogleDrive 2\CryptographyWF01\CryptographyWF01\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Flouter\Documents\C#\CryptographyWF01-GoogleDrive 2 (2)\CryptographyWF01-GoogleDrive 2 (1)\CryptographyWF01-GoogleDrive 2\CryptographyWF01\CryptographyWF01\bin\Debug\System.CodeDom.dll
+C:\Users\Flouter\Documents\C#\CryptographyWF01-GoogleDrive 2 (2)\CryptographyWF01-GoogleDrive 2 (1)\CryptographyWF01-GoogleDrive 2\CryptographyWF01\CryptographyWF01\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Flouter\Documents\C#\CryptographyWF01-GoogleDrive 2 (2)\CryptographyWF01-GoogleDrive 2 (1)\CryptographyWF01-GoogleDrive 2\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.pdb
+C:\Users\Flouter\Documents\C#\CryptographyWF01-GoogleDrive 2 (2)\CryptographyWF01-GoogleDrive 2 (1)\CryptographyWF01-GoogleDrive 2\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.xml
+C:\Users\Flouter\Documents\C#\CryptographyWF01-GoogleDrive 2 (2)\CryptographyWF01-GoogleDrive 2 (1)\CryptographyWF01-GoogleDrive 2\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Flouter\Documents\C#\CryptographyWF01-GoogleDrive 2 (2)\CryptographyWF01-GoogleDrive 2 (1)\CryptographyWF01-GoogleDrive 2\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Flouter\Documents\C#\CryptographyWF01-GoogleDrive 2 (2)\CryptographyWF01-GoogleDrive 2 (1)\CryptographyWF01-GoogleDrive 2\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Flouter\Documents\C#\CryptographyWF01-GoogleDrive 2 (2)\CryptographyWF01-GoogleDrive 2 (1)\CryptographyWF01-GoogleDrive 2\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.Core.xml
+C:\Users\Flouter\Documents\C#\CryptographyWF01-GoogleDrive 2 (2)\CryptographyWF01-GoogleDrive 2 (1)\CryptographyWF01-GoogleDrive 2\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\Flouter\Documents\C#\CryptographyWF01-GoogleDrive 2 (2)\CryptographyWF01-GoogleDrive 2 (1)\CryptographyWF01-GoogleDrive 2\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\Flouter\Documents\C#\CryptographyWF01-GoogleDrive 2 (2)\CryptographyWF01-GoogleDrive 2 (1)\CryptographyWF01-GoogleDrive 2\CryptographyWF01\CryptographyWF01\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Flouter\Documents\C#\CryptographyWF01-GoogleDrive 2 (2)\CryptographyWF01-GoogleDrive 2 (1)\CryptographyWF01-GoogleDrive 2\CryptographyWF01\CryptographyWF01\bin\Debug\System.CodeDom.xml
+C:\Users\Flouter\Documents\C#\CryptographyWF01-GoogleDrive 2 (2)\CryptographyWF01-GoogleDrive 2 (1)\CryptographyWF01-GoogleDrive 2\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.csproj.AssemblyReference.cache
+C:\Users\Flouter\Documents\C#\CryptographyWF01-GoogleDrive 2 (2)\CryptographyWF01-GoogleDrive 2 (1)\CryptographyWF01-GoogleDrive 2\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.Form1.resources
+C:\Users\Flouter\Documents\C#\CryptographyWF01-GoogleDrive 2 (2)\CryptographyWF01-GoogleDrive 2 (1)\CryptographyWF01-GoogleDrive 2\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.Properties.Resources.resources
+C:\Users\Flouter\Documents\C#\CryptographyWF01-GoogleDrive 2 (2)\CryptographyWF01-GoogleDrive 2 (1)\CryptographyWF01-GoogleDrive 2\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.csproj.GenerateResource.cache
+C:\Users\Flouter\Documents\C#\CryptographyWF01-GoogleDrive 2 (2)\CryptographyWF01-GoogleDrive 2 (1)\CryptographyWF01-GoogleDrive 2\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.csproj.CoreCompileInputs.cache
+C:\Users\Flouter\Documents\C#\CryptographyWF01-GoogleDrive 2 (2)\CryptographyWF01-GoogleDrive 2 (1)\CryptographyWF01-GoogleDrive 2\CryptographyWF01\CryptographyWF01\obj\Debug\Cryptogr.76FBC6BF.Up2Date
+C:\Users\Flouter\Documents\C#\CryptographyWF01-GoogleDrive 2 (2)\CryptographyWF01-GoogleDrive 2 (1)\CryptographyWF01-GoogleDrive 2\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.exe
+C:\Users\Flouter\Documents\C#\CryptographyWF01-GoogleDrive 2 (2)\CryptographyWF01-GoogleDrive 2 (1)\CryptographyWF01-GoogleDrive 2\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.pdb
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive (BouncyCastle) — копия\CryptographyWF01-GoogleDrive (BouncyCastle)\CryptographyWF01\CryptographyWF01\bin\Debug\CryptographyWF01.exe.config
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive (BouncyCastle) — копия\CryptographyWF01-GoogleDrive (BouncyCastle)\CryptographyWF01\CryptographyWF01\bin\Debug\CryptographyWF01.exe
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive (BouncyCastle) — копия\CryptographyWF01-GoogleDrive (BouncyCastle)\CryptographyWF01\CryptographyWF01\bin\Debug\CryptographyWF01.pdb
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive (BouncyCastle) — копия\CryptographyWF01-GoogleDrive (BouncyCastle)\CryptographyWF01\CryptographyWF01\bin\Debug\BouncyCastle.Cryptography.dll
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive (BouncyCastle) — копия\CryptographyWF01-GoogleDrive (BouncyCastle)\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.Auth.dll
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive (BouncyCastle) — копия\CryptographyWF01-GoogleDrive (BouncyCastle)\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.Core.dll
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive (BouncyCastle) — копия\CryptographyWF01-GoogleDrive (BouncyCastle)\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.dll
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive (BouncyCastle) — копия\CryptographyWF01-GoogleDrive (BouncyCastle)\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.Drive.v3.dll
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive (BouncyCastle) — копия\CryptographyWF01-GoogleDrive (BouncyCastle)\CryptographyWF01\CryptographyWF01\bin\Debug\Newtonsoft.Json.dll
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive (BouncyCastle) — копия\CryptographyWF01-GoogleDrive (BouncyCastle)\CryptographyWF01\CryptographyWF01\bin\Debug\System.CodeDom.dll
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive (BouncyCastle) — копия\CryptographyWF01-GoogleDrive (BouncyCastle)\CryptographyWF01\CryptographyWF01\bin\Debug\BouncyCastle.Cryptography.xml
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive (BouncyCastle) — копия\CryptographyWF01-GoogleDrive (BouncyCastle)\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.pdb
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive (BouncyCastle) — копия\CryptographyWF01-GoogleDrive (BouncyCastle)\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.xml
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive (BouncyCastle) — копия\CryptographyWF01-GoogleDrive (BouncyCastle)\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.Auth.pdb
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive (BouncyCastle) — копия\CryptographyWF01-GoogleDrive (BouncyCastle)\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.Auth.xml
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive (BouncyCastle) — копия\CryptographyWF01-GoogleDrive (BouncyCastle)\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.Core.pdb
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive (BouncyCastle) — копия\CryptographyWF01-GoogleDrive (BouncyCastle)\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.Core.xml
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive (BouncyCastle) — копия\CryptographyWF01-GoogleDrive (BouncyCastle)\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive (BouncyCastle) — копия\CryptographyWF01-GoogleDrive (BouncyCastle)\CryptographyWF01\CryptographyWF01\bin\Debug\Google.Apis.Drive.v3.xml
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive (BouncyCastle) — копия\CryptographyWF01-GoogleDrive (BouncyCastle)\CryptographyWF01\CryptographyWF01\bin\Debug\Newtonsoft.Json.xml
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive (BouncyCastle) — копия\CryptographyWF01-GoogleDrive (BouncyCastle)\CryptographyWF01\CryptographyWF01\bin\Debug\System.CodeDom.xml
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive (BouncyCastle) — копия\CryptographyWF01-GoogleDrive (BouncyCastle)\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.csproj.AssemblyReference.cache
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive (BouncyCastle) — копия\CryptographyWF01-GoogleDrive (BouncyCastle)\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.Form1.resources
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive (BouncyCastle) — копия\CryptographyWF01-GoogleDrive (BouncyCastle)\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.Properties.Resources.resources
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive (BouncyCastle) — копия\CryptographyWF01-GoogleDrive (BouncyCastle)\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.csproj.GenerateResource.cache
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive (BouncyCastle) — копия\CryptographyWF01-GoogleDrive (BouncyCastle)\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.csproj.CoreCompileInputs.cache
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive (BouncyCastle) — копия\CryptographyWF01-GoogleDrive (BouncyCastle)\CryptographyWF01\CryptographyWF01\obj\Debug\Cryptogr.76FBC6BF.Up2Date
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive (BouncyCastle) — копия\CryptographyWF01-GoogleDrive (BouncyCastle)\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.exe
+C:\ЭДИК\ПРОЕКТ\CryptographyWF01-GoogleDrive (BouncyCastle) — копия\CryptographyWF01-GoogleDrive (BouncyCastle)\CryptographyWF01\CryptographyWF01\obj\Debug\CryptographyWF01.pdb
